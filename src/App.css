@@ -1,0 +1,13 @@
+.app{
+  text-align: center;
+}
+.app input{
+  width: 40px;
+  height: 40px;
+  margin: 1rem 0.2rem;
+  text-align: center;
+}
+.app button{
+  cursor: pointer;
+  margin: 50px;
+}
